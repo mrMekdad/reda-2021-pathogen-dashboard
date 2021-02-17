@@ -1,0 +1,10 @@
+{
+  "name": "reda-2021-pathogen-dashboard",
+  "version": "0.1.0",
+  "description": "Small browser dashboard for pathogen sample status and sequencing progress.",
+  "author": "Red@",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  }
+}
