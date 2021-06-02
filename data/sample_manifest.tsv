@@ -1,3 +1,4 @@
 sample	status	group
 pathogen-dashboard-01	ready	control
 pathogen-dashboard-02	review	case
+pathogen-dashboard-03	queued	validation
